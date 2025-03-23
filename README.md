@@ -1,7 +1,7 @@
-# data_analyst_AI_Agent
+# Data_Analyst_AI_Agent
 This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It allows users to upload data files (CSV, XLSX, PDF), ask questions about the data, and generate visualizations. The agent maintains conversational memory for context-aware interactions and provides insights through natural language queries.
 
-##Features
+## Features
 
     1. File Support: Upload and analyze data from CSV, XLSX, and PDF files.
 
@@ -13,7 +13,7 @@ This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It 
 
     5. Error Handling: Provides clear error messages for unsupported file types or invalid queries.
 
-##How It Works
+## How It Works
 
     1. Upload a File: Use the file upload widget to provide your data (CSV, XLSX, or PDF).
 
@@ -23,7 +23,7 @@ This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It 
 
     4. Conversational Context: The AI remembers previous queries for context-aware responses.
 
-##Installation
+## Installation
 
     Clone the repository:
 
@@ -46,7 +46,7 @@ This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It 
 
     jupyter notebook
 
-##Usage
+## Usage
 
     Open the Jupyter Notebook and run all cells.
 
@@ -54,7 +54,7 @@ This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It 
 
     Ask questions or request visualizations in the query input box.
 
-##Example Queries
+## Example Queries
 
     Data Analysis:
 
@@ -68,7 +68,7 @@ This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It 
 
         "Create a bar chart for monthly sales."
 
-##Dependencies
+## Dependencies
 
     pandas
 
@@ -85,6 +85,7 @@ This is a Data Analyst AI Agent built using LangChain and Google Gemini API. It 
     langchain
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
 Acknowledgments
 
     LangChain for conversational memory and AI integration.
